@@ -1,0 +1,9 @@
+J:\Program2\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+J:\Program2\Program2\obj\Debug\Program2.Form1.resources
+J:\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+J:\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
+J:\Program2\Program2\bin\Debug\Program2.exe.config
+J:\Program2\Program2\bin\Debug\Program2.exe
+J:\Program2\Program2\bin\Debug\Program2.pdb
+J:\Program2\Program2\obj\Debug\Program2.exe
+J:\Program2\Program2\obj\Debug\Program2.pdb
